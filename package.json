@@ -1,0 +1,25 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Richard Lim",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^26.0.1",
+    "node": "^14.2.0",
+    "util": "^0.12.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lim95/note-taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lim95/note-taker/issues"
+  },
+  "homepage": "https://github.com/lim95/note-taker#readme"
+}
